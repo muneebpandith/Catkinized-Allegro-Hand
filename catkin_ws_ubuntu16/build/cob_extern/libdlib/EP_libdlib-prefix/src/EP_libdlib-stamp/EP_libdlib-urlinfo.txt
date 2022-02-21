@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/ipa320/thirdparty/raw/master/dlib-19.9.tar.bz2'
+tag='MD5=4a3868a1e88721b68ccfb0567eaac87b'

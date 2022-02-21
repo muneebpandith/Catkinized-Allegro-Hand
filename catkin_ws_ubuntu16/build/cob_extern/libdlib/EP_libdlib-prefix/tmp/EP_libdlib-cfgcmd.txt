@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;CFLAGS=-Wno-deprecated-declarations -Wno-terminate -Wno-pragmas -Wno-shift-negative-value;CXXFLAGS=-Wno-deprecated-declarations -Wno-terminate -Wno-pragmas -Wno-shift-negative-value;/home/ubuntu/catkin_ws/build/cob_extern/libdlib/libdlib-src/dlib'

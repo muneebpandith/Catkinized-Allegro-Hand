@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install
+
+Name: libntcan
+Description: Description of libntcan
+Version: 0.6.17
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lntcan
+Requires: 

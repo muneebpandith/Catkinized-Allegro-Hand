@@ -1,0 +1,2 @@
+allegro-hand-ros/allegro:allegro-hand-ros/allegro_hand:allegro-hand-ros/allegro_hand_controllers:allegro-hand-ros/allegro_hand_description:allegro-hand-ros/allegro_hand_driver:allegro-hand-ros/allegro_hand_keyboard:allegro-hand-ros/allegro_hand_parameters:allegro-hand-ros/bhand:cob_extern/cob_extern:cob_extern/libdlib:cob_extern/libntcan:cob_extern/libpcan:cob_extern/libphidgets:cob_extern/opengm
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/catkin_ws/install -G Unix Makefiles

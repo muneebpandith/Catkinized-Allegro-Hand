@@ -1,0 +1,8 @@
+/home/ubuntu/catkin_ws/build/cob_extern/libdlib/libdlib-build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/catkin_ws/build/cob_extern/libdlib/libdlib-build/CMakeFiles/edit_cache.dir
+/home/ubuntu/catkin_ws/build/cob_extern/libdlib/libdlib-build/CMakeFiles/install.dir
+/home/ubuntu/catkin_ws/build/cob_extern/libdlib/libdlib-build/CMakeFiles/list_install_components.dir
+/home/ubuntu/catkin_ws/build/cob_extern/libdlib/libdlib-build/CMakeFiles/dlib.dir
+/home/ubuntu/catkin_ws/build/cob_extern/libdlib/libdlib-build/CMakeFiles/dlib_shared.dir
+/home/ubuntu/catkin_ws/build/cob_extern/libdlib/libdlib-build/CMakeFiles/install/local.dir
+/home/ubuntu/catkin_ws/build/cob_extern/libdlib/libdlib-build/CMakeFiles/install/strip.dir

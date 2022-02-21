@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/devel
+
+Name: libdlib
+Description: Description of libdlib
+Version: 0.6.17
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

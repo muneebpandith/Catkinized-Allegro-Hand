@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install
+
+Name: allegro
+Description: Description of allegro
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: allegro_hand_driver bhand libpcan roscpp sensor_msgs rospy eigen3

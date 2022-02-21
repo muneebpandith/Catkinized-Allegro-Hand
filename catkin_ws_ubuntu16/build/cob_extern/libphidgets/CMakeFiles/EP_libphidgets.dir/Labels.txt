@@ -1,0 +1,13 @@
+# Target labels
+ EP_libphidgets
+# Source files and their labels
+/home/ubuntu/catkin_ws/build/cob_extern/libphidgets/CMakeFiles/EP_libphidgets
+/home/ubuntu/catkin_ws/build/cob_extern/libphidgets/CMakeFiles/EP_libphidgets.rule
+/home/ubuntu/catkin_ws/build/cob_extern/libphidgets/CMakeFiles/EP_libphidgets-complete.rule
+/home/ubuntu/catkin_ws/build/cob_extern/libphidgets/EP_libphidgets-prefix/src/EP_libphidgets-stamp/EP_libphidgets-install.rule
+/home/ubuntu/catkin_ws/build/cob_extern/libphidgets/EP_libphidgets-prefix/src/EP_libphidgets-stamp/EP_libphidgets-mkdir.rule
+/home/ubuntu/catkin_ws/build/cob_extern/libphidgets/EP_libphidgets-prefix/src/EP_libphidgets-stamp/EP_libphidgets-download.rule
+/home/ubuntu/catkin_ws/build/cob_extern/libphidgets/EP_libphidgets-prefix/src/EP_libphidgets-stamp/EP_libphidgets-update.rule
+/home/ubuntu/catkin_ws/build/cob_extern/libphidgets/EP_libphidgets-prefix/src/EP_libphidgets-stamp/EP_libphidgets-patch.rule
+/home/ubuntu/catkin_ws/build/cob_extern/libphidgets/EP_libphidgets-prefix/src/EP_libphidgets-stamp/EP_libphidgets-configure.rule
+/home/ubuntu/catkin_ws/build/cob_extern/libphidgets/EP_libphidgets-prefix/src/EP_libphidgets-stamp/EP_libphidgets-build.rule
